@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Who I am
 Hello! I am Codey Arch, sometimes known as GoobyDev on socials. I am a Junior software developer who works with multiple languages and tools to create projects I am passionate about. I enjoy playing rhythm games such as Osu! and Beat Saber and I love experimenting with making my own games. 
 ## My stats
-[![Codey's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeyarch&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Codey's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeyarch&theme=algolia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages and tools
 * Languages
   * Python
