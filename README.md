@@ -34,5 +34,7 @@ Hello! I am Codey Arch, sometimes known as GoobyDev on socials. I am a Junior so
   * Unity game engine
   * Git  
 ## What I am up to
-Currently I am working on creating my own Irl RPG Android application using Jetpack Compose and Kotlin in Android Studio. The idea behind this application is to encourage real life self care through in-app rewards by having users complete tasks regularly for experience and points.
+Currently I am working on a simple note taking application for Android using Kotlin, Jetpack Compose, Hilt Dagger and Room in Android Studio. The note app is primarily for learning these new technologies, however, I also want to create an app to assist me in daily life. 
+
+My next main project will be creating my own Irl RPG Android application using similar technologies as my current project in Android Studio. The idea behind this application is to encourage real life self care through in-app rewards by having users complete tasks regularly for experience and points.
 
