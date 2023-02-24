@@ -35,11 +35,10 @@ Hello! I am Codey Arch, sometimes known as GoobyDev on socials. I am a Software 
   * Git  
 
 ## What I am up to
-Currently I am working on a simple note taking application for Android using Kotlin, Jetpack Compose, Hilt Dagger and Room in Android Studio. The note app is primarily for learning these new technologies, however, I also want to create an app to assist me in daily life. The repo for this application is currently private, however, it will be made public in the near future. 
+I have just recently released my first Android Application on Google Play. The apps name is YANA and you can find the source code here: https://github.com/CodeyArch/YANA
 
-Here are some images showcasing the app
+You can also get the app on Google Play here: https://play.google.com/store/apps/details?id=me.goobydev.composenotes
 
-<img src= https://user-images.githubusercontent.com/70377808/207621848-70bdab13-c2e4-4326-9fd6-c0936764c958.png width="300">  <img src=https://user-images.githubusercontent.com/70377808/207623850-3ee60925-dd7e-4479-b2d2-3645008faef2.png width="300">  <img src=https://user-images.githubusercontent.com/70377808/207623870-59af59b8-befc-4a48-856c-6157a7e3cd34.png width="300">
 
 My next main project will be creating my own Irl RPG Android application using similar technologies as my current project in Android Studio. The idea behind this application is to encourage real life self care through in-app rewards by having users complete tasks regularly for experience and points.
 
